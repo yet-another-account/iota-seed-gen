@@ -1,6 +1,6 @@
 # iota-seed-gen
 
-Generate a seed for Iota wallet. *Never* use an online seed generator or a closed source one. 
+Generate a seed for Iota wallet. *Never* use a closed source seed generator. 
 
 ## To Use:
 
